@@ -1,0 +1,20 @@
+This is the basic code you will nedd whenever you create one
+
+{
+    "manifest_version":2,
+    "name": "",
+    "description": "",
+    "icons": {
+        "16": "",
+        "48": "",
+        "128": ""
+    },
+    "page_action" : {
+        "default_icon":{
+            "16": "",
+            "48": "",
+            "128": ""
+        }
+    },
+    "content_scripts": [{}]
+}
